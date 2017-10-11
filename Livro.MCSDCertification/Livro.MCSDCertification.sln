@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Chapter.BasicProgramStructure", "2.Chapter.BasicProgramStructure", "{36E1B543-A581-48AC-827A-CC1F6E4D9016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChapterClassLibrary", "2.Chapter.BasicProgramStructure\ChapterClassLibrary\ChapterClassLibrary.csproj", "{D9D7FDB1-5536-4F11-ACA3-EB7971362530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D7FDB1-5536-4F11-ACA3-EB7971362530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D7FDB1-5536-4F11-ACA3-EB7971362530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D7FDB1-5536-4F11-ACA3-EB7971362530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D7FDB1-5536-4F11-ACA3-EB7971362530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9D7FDB1-5536-4F11-ACA3-EB7971362530} = {36E1B543-A581-48AC-827A-CC1F6E4D9016}
+	EndGlobalSection
+EndGlobal
